@@ -1,4 +1,4 @@
-# lower-kebob-case
+# Maven Java App
 ## Maven App Project
 
 ``` mvn archetype:generate```
